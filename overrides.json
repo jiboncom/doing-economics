@@ -1,7 +1,4 @@
 {
-    "@jupyterlab/apputils-extension:themes": {
-        "theme": "CORE Economics"
-    },
     "@jupyterlab/notebook-extension:panel": {
         "toolbar": [
             {
